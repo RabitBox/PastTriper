@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastrip.Plugins", "Pastrip.Plugins.csproj", "{F1C60580-5D01-D86E-3C33-F60A4A4F5426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastrip", "Pastrip.csproj", "{5397F1DA-CEFB-D7CD-9AB0-DE81BB99E9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastrip.Editor", "Pastrip.Editor.csproj", "{67066FA2-7413-EC01-D626-6E75CCFED184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C60580-5D01-D86E-3C33-F60A4A4F5426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C60580-5D01-D86E-3C33-F60A4A4F5426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C60580-5D01-D86E-3C33-F60A4A4F5426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C60580-5D01-D86E-3C33-F60A4A4F5426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5397F1DA-CEFB-D7CD-9AB0-DE81BB99E9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5397F1DA-CEFB-D7CD-9AB0-DE81BB99E9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5397F1DA-CEFB-D7CD-9AB0-DE81BB99E9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5397F1DA-CEFB-D7CD-9AB0-DE81BB99E9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67066FA2-7413-EC01-D626-6E75CCFED184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67066FA2-7413-EC01-D626-6E75CCFED184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67066FA2-7413-EC01-D626-6E75CCFED184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67066FA2-7413-EC01-D626-6E75CCFED184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
